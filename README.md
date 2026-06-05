@@ -1,2 +1,2 @@
-# amazon-clone
+# CLASS ROOM
 practice project built during web development learning
